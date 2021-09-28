@@ -58,7 +58,9 @@ footer{
   background-color: #343a40 !important;
   color: #f8f9fa;
 }
-
+.container button{
+  color: #3490dc;
+}
 .col-md-8 .container .row{
   background-color: #e9ecef;
   border-radius: 0.25rem;

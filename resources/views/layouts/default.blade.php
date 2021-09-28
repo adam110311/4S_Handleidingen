@@ -35,14 +35,14 @@
             </ul>
 
         
-            @include('includes.footer')        
+                 
         </div>
 
     </div>
 
 
 </div>
-
+@include('includes.footer')   
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
