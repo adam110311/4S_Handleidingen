@@ -1,6 +1,24 @@
 
 <footer>
-	© {{ __('misc.copyright') }}
+  <div class="extra_foot">
+    <div class="socials">
+      <h3>You can find us on:</h3>
+      <a href="~dummy~">@Avarix on twitter</a>
+      <a href="~dummy~">@Avarix on instagram</a>
+    </div>
+    <div class="contact">
+      <h3>Contact info:</h3>
+      <div class="contact_info">
+        <p>Email:~fill later~</p>
+        <p>Telephone number:~fill later~</p>
+      </div>
+    </div>
+    <div class="about">
+      <h3>about us:</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Harum deserunt blanditiis error ipsa, voluptates illum modi assumenda rerum illo,<br> sunt aliquam natus maxime, quo quod et sapiente deleniti aperiam accusamus?</p>
+    </div>
+  </div>
+  © {{ __('misc.copyright') }}
 </footer>
 
 
