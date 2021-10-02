@@ -18,7 +18,7 @@
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Harum deserunt blanditiis error ipsa, voluptates illum modi assumenda rerum illo,<br> sunt aliquam natus maxime, quo quod et sapiente deleniti aperiam accusamus?</p>
     </div>
   </div>
-  © {{ __('misc.copyright') }}
+  © {{ __('misc.copyright') }} <br> Hello, {{ __('misc.name') }}
 </footer>
 
 
